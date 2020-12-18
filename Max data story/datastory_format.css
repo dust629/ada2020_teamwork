@@ -1,0 +1,17 @@
+h1{
+    margin:0;
+    padding:0;
+}
+#companyname{
+text-align:left;
+font-size:13px;
+}
+#companyaddress{
+text-align:left;
+width:68%;
+font-size:13px;
+}
+#companycountry{
+text-align:left;
+font-size:13px;
+}
